@@ -1,0 +1,45 @@
+body{
+
+  background-color: #FBF9F1;
+  font-size: 2rem;
+  font-weight:normal;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+p{
+  color:grey;
+}
+li{
+  color:grey;
+}
+h4{
+  color: grey;
+}
+h5{
+  color:grey;
+}
+h1{
+  color:grey;
+}
+h3{
+  color:grey;
+}
+h2{
+  color: grey;
+}
+td{
+  color: grey;
+}
+table{
+  color: grey;
+}
+hr{
+  display: block;
+  width: 10%;
+  border:dotted #EEE3CB 10px ;
+  border-bottom: none;
+
+}
+div{
+  margin:auto;
+}
